@@ -1,3 +1,11 @@
+/**
+ * WEBSITE: https://themefisher.com
+ * TWITTER: https://twitter.com/themefisher
+ * FACEBOOK: https://www.facebook.com/themefisher
+ * GITHUB: https://github.com/themefisher/
+ */
+
+/*  typography */
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400");
 body {
   line-height: 1.2;
@@ -18,11 +26,11 @@ p-lg, .paragraph-lg {
   font-size: 22px;
 }
 
-/* h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   color: #000;
   font-family: "Playfair Display", serif;
   line-height: 1.2;
-} */
+}
 
 h1, .h1 {
   font-size: 80px;
@@ -287,11 +295,6 @@ a:hover {
   z-index: 1;
 }
 
-.hero-area h3 {
-  position:relative;
-  z-index: 2;
-  color: white;
-}
 .rounded-lg {
   border-radius: 15px;
 }

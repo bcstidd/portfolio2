@@ -1,9 +1,3 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
- */
 
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400");
@@ -109,7 +103,6 @@ h6, .h6 {
   background: #542cb7 !important;
   box-shadow: none !important;
 }
-
 .btn-transparent {
   background: transparent;
   color: #41228e;
@@ -311,6 +304,10 @@ a:hover {
   font-family: "Playfair Display", serif !important;
 }
 
+.font-tertiary.h3, .nav-name {
+  color: #ffc107;
+}
+
 .shadow {
   box-shadow: 0px 18px 39.1px 6.9px rgba(224, 241, 255, 0.34) !important;
 }
@@ -399,6 +396,7 @@ textarea.form-control {
   background-color: #41228e;
   padding: 15px 100px;
 }
+
 @media (max-width: 991px) {
   .navigation.nav-bg {
     padding: 15px 20px;
@@ -438,7 +436,7 @@ textarea.form-control {
   position: relative;
   z-index: 2;
 }
-.hero-area h3 {
+.hero-area h2, h3 {
   position: relative;
   z-index: 2;
   color: white !important;
@@ -732,6 +730,9 @@ blockquote {
   }
 }
 
+a.linked {
+  color: #ffc107;
+}
 .page-title-alt .container {
   position: relative;
   z-index: 1;

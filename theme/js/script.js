@@ -1,5 +1,5 @@
 /**
-
+ * LINKEDIN: https://www.linkedin.com/in/brittany-stidd
  * GITHUB: https://github.com/bcstidd/
  */
 

@@ -833,4 +833,9 @@ blockquote {
 .filter-controls li.active {
   font-weight: bold;
 }
+
+#logo-name {
+  color: #ffc107;
+}
+
 /*# sourceMappingURL=style.css.map */

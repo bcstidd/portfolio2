@@ -438,6 +438,11 @@ textarea.form-control {
   position: relative;
   z-index: 2;
 }
+.hero-area h3 {
+  position: relative;
+  z-index: 2;
+  color: white !important;
+}
 
 .layer {
   position: absolute;

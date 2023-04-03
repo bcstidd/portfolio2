@@ -1,9 +1,6 @@
 {
-  "name": "kross",
+  "name": "Stidd",
   "version": "1.0.1",
-  "description": "kross free personal portfolio template",
-  "author": "Themefisher",
-  "license": "MIT",
   "scripts": {
     "dev": "gulp",
     "build": "gulp build"

@@ -65,10 +65,8 @@ gulp.task("scss:build", function () {
     .pipe(sourcemaps.write("/"))
     .pipe(
       comments(`
-    WEBSITE: https://themefisher.com
-    TWITTER: https://twitter.com/themefisher
-    FACEBOOK: https://www.facebook.com/themefisher
-    GITHUB: https://github.com/themefisher/
+
+    GITHUB: https://github.com/bc.stidd/
     `)
     )
     .pipe(gulp.dest(path.build.dirDev + "css/"))

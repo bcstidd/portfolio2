@@ -421,6 +421,13 @@ textarea.form-control {
   }
 }
 
+#logo-name {
+  color: #ffc107;
+  border: 3px solid white;
+  padding: 3px 7px 3px 7px;
+  font-size: xx-large;
+}
+
 .navbar .nav-item .nav-link {
   font-family: "Playfair Display", serif;
   text-transform: uppercase;
@@ -448,13 +455,16 @@ textarea.form-control {
   position: relative;
   z-index: 2;
 }
-
+.hero-area #name {
+  position: relative;
+  color: #ffc107;
+  z-index: 2;
+}
 .hero-area h2 {
   position: relative;
   z-index: 2;
   color: white;
 }
-
 .hero-area h3 {
   position: relative;
   z-index: 2;
@@ -464,7 +474,6 @@ textarea.form-control {
 .layer {
   position: absolute;
   z-index: 1;
-
 }
 
 #l1 {

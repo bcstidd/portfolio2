@@ -1,6 +1,8 @@
 {
-  "name": "Stidd",
+  "name": "kross",
   "version": "1.0.1",
+  "author": "Themefisher",
+  "license": "MIT",
   "scripts": {
     "dev": "gulp",
     "build": "gulp build"

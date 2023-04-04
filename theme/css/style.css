@@ -309,6 +309,13 @@ a:hover {
   font-family: "Playfair Display", serif !important;
 }
 
+#logo-name {
+  color: #ffc107;
+  border: 3px solid white;
+  padding: 3px 7px 3px 7px;
+  font-size: xx-large;
+}
+
 #name {
   color: #ffc107;
   z-index: 2;
@@ -457,6 +464,7 @@ textarea.form-control {
 .layer {
   position: absolute;
   z-index: 1;
+
 }
 
 #l1 {

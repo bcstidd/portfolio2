@@ -836,6 +836,10 @@ blockquote {
 
 #logo-name {
   color: #ffc107;
+  font-family: 'Bodini';
+  font-size: 38px !important;
+  border: 2px solid #fff;
+  padding: 3px 7px 3px 7px;
 }
 
 /*# sourceMappingURL=style.css.map */

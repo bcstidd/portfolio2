@@ -6,6 +6,8 @@
     border-radius: 5px;    
     display: flex;
     justify-content: center;    
+    align-items: center;
     font-weight: bolder;
-    font-size: larger;
+    font-size: x-large;
+    height: 40px;
 }

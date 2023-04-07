@@ -198,6 +198,10 @@ a:hover {
   font-family: "Playfair Display", serif;
 }
 
+.tools {
+  text-align: center;
+}
+
 .bg-cover {
   background-size: cover;
   background-position: center center;
@@ -522,6 +526,18 @@ textarea.form-control {
 }
 
 /* skills */
+.explain {
+  /* border: 10px solid #FFC107; */
+  margin: 50px 100px -50px 100px;
+  padding: 20px;
+  /* border-radius: 10px; */
+
+}
+
+.explain-p {
+  font-family: "Playfair Display", serif;
+}
+
 .progress-wrapper {
   height: 130px;
   overflow: hidden;

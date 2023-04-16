@@ -529,14 +529,24 @@ textarea.form-control {
 
 /* skills */
 .explain {
-  /* border: 10px solid #FFC107; */
-  margin: 50px 100px -50px 100px;
+  display: flex;
+  flex-direction: column;
+  /* border-left: 10px solid #007bff; */
+  margin: 50px 100px -50px 350px;
   padding: 20px;
+  padding-left: 50px;
+  justify-content: right;
+  max-width: 50%;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+
   /* border-radius: 10px; */
 
 }
 
 .explain-p {
+  display: flex;
   font-family: "Playfair Display", serif;
 }
 

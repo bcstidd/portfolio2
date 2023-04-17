@@ -545,6 +545,9 @@ textarea.form-control {
 
 }
 
+.test-name {
+  color: #FFBCAA;
+}
 .explain-p {
   display: flex;
   font-family: "Playfair Display", serif;

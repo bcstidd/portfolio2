@@ -531,17 +531,17 @@ textarea.form-control {
 .explain {
   display: flex;
   flex-direction: column;
-  /* border-left: 10px solid #007bff; */
-  margin: 50px 100px -50px 350px;
+  justify-content: space-around;
+  justify-self: center !important;
+  border-left: 10px solid #007bff;
+  border-top: 10px solid #FFBCAA; 
+  margin:0 auto;
+  margin-top: 50px;
   padding: 20px;
-  padding-left: 50px;
-  justify-content: right;
-  max-width: 50%;
-  justify-content: center;
-  justify-self: center;
-  align-items: center;
+  padding-left: 50px; 
+  max-width: 70%;
+  align-self: center;
 
-  /* border-radius: 10px; */
 
 }
 
@@ -549,7 +549,7 @@ textarea.form-control {
   color: #FFBCAA;
 }
 .explain-p {
-  display: flex;
+  /* display: flex; */
   font-family: "Playfair Display", serif;
 }
 
